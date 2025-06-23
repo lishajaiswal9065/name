@@ -1,0 +1,21 @@
+body{
+    background-color: cornflowerblue;
+}
+h1{
+    color: crimson;
+    background-color: cadetblue;
+    text-align: center;
+    font-size: 50px;
+}
+h2{
+    color: blueviolet;
+    background-color: aqua;
+    text-align: left;
+    font-size: 100px;
+}
+h3{
+    color: gold;
+    background-color: blanchedalmond;
+    text-align: right;
+    font-size: 120px;
+}
